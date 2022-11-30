@@ -97,7 +97,7 @@ animation-iteration-count: 3;
     transform: translateX(10);
 
     }
-    100% {
+    90% {
     opacity: 1;
     transform: translateX(0);
     }
