@@ -6,7 +6,7 @@ Medium green: #55c57a
 Dark green: #28b485
 
 */
-
+/* Nov 30 */
 *{
     margin: 0px;
     padding: 0px;
@@ -46,7 +46,7 @@ header{
     height: 35px;
 }
 .logo:hover{
-    animation: moveInLeft 1s ease-out;
+    animation: moveInLeft    1s ease-out;
 }
 
 .heading-primary{
